@@ -3,7 +3,6 @@
 	"name": "Dados - Amputações",
 	"header": 0,
 	"separator": ",",
-	"skip": 0,
 	"meta": [
 		{ "type": "id", "index": 0 },
 		{ "type": "integer", "index": 1, "min": 21, "max": 92 },
