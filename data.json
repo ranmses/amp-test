@@ -6,7 +6,11 @@
 	"meta": [
 		{ "type": "id", "index": 0, "name": "Paciente" },
 		{ "type": "integer", "index": 1, "min": 21, "max": 92, "name": "Idade" },
-		{ "type": "string", "index": 2, "name": "Sexo"}
+		{ "type": "string", "index": 2, "name": "Sexo"},
+		{ "type": "string", "index": 3, "name": "Cidade"},
+		{ "type": "string", "index": 4, "name": "Motivo"},
+		{ "type": "string", "index": 5, "name": "Amputação"},
+		{ "type": "string", "index": 6, "name": "Desfecho"}
 	],
 	"sets": [
 		{ "format": "binary", "start": 7, "end": 20 }
