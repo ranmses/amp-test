@@ -4,9 +4,9 @@
 	"header": 0,
 	"separator": ",",
 	"meta": [
-		{ "type": "id", "index": 0 },
-		{ "type": "integer", "index": 1, "min": 21, "max": 92 },
-		{ "type": "string", "index": 2}
+		{ "type": "id", "index": 0, "name": "Paciente" },
+		{ "type": "integer", "index": 1, "min": 21, "max": 92, "name": "Idade" },
+		{ "type": "string", "index": 2, "name": "Sexo"}
 	],
 	"sets": [
 		{ "format": "binary", "start": 7, "end": 20 }
