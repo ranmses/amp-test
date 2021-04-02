@@ -1,117 +1,117 @@
 Paciente,Idade,Sexo,Cidade,Motivo,Amputação,Desfecho,AP,AVE,COVID,DM1,DM2,FA,HAS,IAM,INFECÇÃO,IRA,ISQUEMIA,REVASC,SEPSE,TABAGISMO
-01,58,Feminino,Jaicos/PI,NECROSE,Transfemoral esquerda,ALTA HOSPITALAR,0,0,0,0,1,0,1,0,1,1,0,0,0,0
-03,79,Feminino,Bom jesus/PI,ISQUEMIA,Transtibial esquerda,ALTA HOSPITALAR,0,0,0,0,1,0,1,0,1,0,1,0,0,0
-04,92,Feminino,Oeiras/PI,ISQUEMIA,Transfemoral direita,ALTA HOSPITALAR,0,0,0,0,0,0,1,0,0,0,1,0,0,0
-05,66,Feminino,Esperantina/PI,TRAUMA,Infrapatelar esquerda,ALTA HOSPITALAR,0,0,0,0,1,0,1,0,1,0,0,0,0,0
-06,56,Masculino,Parnaiba/PI,INFECÇÃO,Transtibial esquerda,ALTA HOSPITALAR,0,0,0,0,1,0,1,1,1,0,1,1,0,0
-07,69,Masculino,Parnaiba/PI,NECROSE,Transtibial esquerda,ALTA HOSPITALAR,0,0,0,0,1,0,0,0,0,0,0,0,0,1
-08,54,Masculino,Teresina/PI,DAOP,Transtibial esquerda,ALTA HOSPITALAR,1,0,0,0,1,0,1,0,0,0,0,0,0,0
-09,75,Feminino,Teresina/PI,NECROSE,Transfemoral direita,ALTA HOSPITALAR,1,0,0,0,1,0,1,0,0,0,1,0,1,1
-10,58,Feminino,Jaicos/PI,INFECÇÃO E EXPOSIÇÃO ÓSSEA,Transtibial esquerda,ALTA HOSPITALAR,1,0,0,0,1,0,1,0,1,1,1,0,0,0
-11,82,Masculino,Rio grande/PI,ISQUEMIA,Transfemoral esquerda,ALTA HOSPITALAR,1,0,0,0,1,0,1,0,0,0,0,0,0,0
-11,82,Masculino,Rio grande/PI,ISQUEMIA,Transfemoral esquerda,ALTA HOSPITALAR,1,0,0,0,1,0,1,0,0,0,0,0,0,0
-12,81,Masculino,Jose de freitas/PI,NECROSE,Transfemoral esquerda,ALTA HOSPITALAR,1,1,0,0,1,0,1,0,1,0,1,0,0,1
-13,34,Masculino,Miguel alves/PI,NECROSE ÚMIDA,Desarticulacao de quadril,TRANSFERÊNCIA,0,0,0,0,0,0,1,0,1,0,0,0,0,0
-14,21,Masculino,Teresina/PI,ISQUEMIA,Transfemoral esquerda,ALTA HOSPITALAR,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-15,66,Masculino,Parnaiba/PI,NECROSE,Suprapatelar esquerda,ALTA HOSPITALAR,0,1,0,0,1,0,1,0,1,0,1,0,0,0
-16,84,Feminino,Valença do Piauí/PI,NECROSE,Suprapatelar esquerda,ALTA HOSPITALAR,1,0,0,0,1,0,1,0,1,0,1,0,0,1
-17,75,Feminino,Teresina/PI,ISQUEMIA,Transfemoral esquerda,ALTA HOSPITALAR,1,0,0,0,1,0,0,0,1,0,1,1,0,0
-18,75,Feminino,Teresina/PI,ISQUEMIA,Transfemoral direita,ALTA HOSPITALAR,1,0,0,0,1,0,0,0,1,0,1,1,0,0
-19,66,Feminino,Beneditinos/PI,DAOP,Transfemoral Esquerda,ALTA HOSPITALAR,1,0,0,0,1,0,1,0,0,0,1,0,0,0
-20,66,Feminino,Palmeirais/PI,ISQUEMIA,Transfemoral direita,ALTA HOSPITALAR,0,0,0,0,1,0,1,0,1,0,1,0,0,0
-21,66,Feminino,Palmeirais/PI,ISQUEMIA,Transfemoral direita,ALTA HOSPITALAR,0,0,0,0,1,0,1,0,1,0,1,0,0,0
-22,77,Feminino,Jaicos/PI,FERIDA DOLOROSA E ISQUEMICA,Suprapatelar esquerda,ALTA HOSPITALAR,0,0,0,0,1,0,1,0,1,0,1,0,0,0
-23,69,Feminino,Valença do Piauí/PI,INFECÇÃO,Transfemoral direita,ALTA HOSPITALAR,0,0,0,0,1,0,1,0,1,0,1,0,0,0
-24,70,Masculino,Teresina/PI,DAOP,Transfemoral esquerda,ALTA HOSPITALAR,0,0,0,0,1,0,1,0,0,0,1,0,0,1
-30,66,Feminino,Parnaiba/PI,ISQUEMIA,Transtibial direita,ALTA HOSPITALAR,0,0,0,0,0,0,1,0,0,0,1,0,0,0
-31,88,Masculino,Paulistana/PI,ISQUEMIA,Transfemoral  esquerda,ÓBITO,0,0,0,0,1,0,1,0,0,0,1,0,0,0
-32,74,Masculino,Parnaiba/PI,ISQUEMIA,Transfemoral esquerda,ALTA HOSPITALAR,1,0,0,0,1,0,1,0,1,0,1,0,0,1
-33,72,Masculino,Teresina/PI,ISQUEMIA,Transfemoral direita,ALTA HOSPITALAR,0,0,0,0,1,0,1,1,0,0,1,0,0,0
-34,81,Feminino,Teresina/PI,ISQUEMIA,Transfemoral esquerda,ALTA HOSPITALAR,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-35,61,Feminino,Teresina/PI,ISQUEMIA,Infrapatelar direita,ALTA HOSPITALAR,0,0,0,0,0,0,1,0,1,0,1,0,0,0
-36,61,Feminino,Teresina/PI,ISQUEMIA,Infrapatelar esquerda,ALTA HOSPITALAR,0,0,0,0,0,0,1,0,1,0,1,0,0,0
-37,70,Masculino,São Raimundo Nonato/PI,ISQUEMIA,Transtibial esquerda,ALTA HOSPITALAR,0,0,0,0,1,0,1,0,0,1,1,0,0,1
-38,65,Masculino,Parnaiba/PI,ISQUEMIA,Suprapatelar direita,ALTA HOSPITALAR,0,0,0,0,1,0,1,0,1,0,0,0,0,0
-39,79,Masculino,Teresina/PI,ISQUEMIA,Transtibial direita,ALTA HOSPITALAR,0,0,0,0,1,0,1,0,1,0,1,0,0,1
-40,87,Masculino,Inhuma/PI,NECROSE,Transfemoral esquerda,ALTA HOSPITALAR,0,1,0,0,0,1,1,0,0,0,1,0,0,0
-41,72,Masculino,Piracuruca/PI,ISQUEMIA,Infrapatelar esquerda,ALTA HOSPITALAR,0,0,0,1,0,0,1,0,1,0,0,0,0,0
-42,69,Feminino,Pimenteiras/PI,ISQUEMIA,Membros inferiores bilateral,ÓBITO,1,0,0,0,0,0,1,0,1,1,1,0,0,0
-43,71,Feminino,Colônia do Piauí/PI,ISQUEMIA,Transtibial direita,ALTA HOSPITALAR,0,0,0,0,1,0,1,0,0,0,1,0,0,0
-44,83,Feminino,Teresina/PI,ISQUEMIA,Transfemoral esquerda,ALTA HOSPITALAR,0,1,0,0,0,0,1,0,1,0,1,0,0,0
-45,62,Masculino,Picos/PI,ISQUEMIA,Transtibial esquerda,ALTA HOSPITALAR,0,0,0,0,1,0,1,0,1,0,1,0,0,0
-46,64,Feminino,Teresina/PI,ISQUEMIA,Transfemoral esquerda,ALTA HOSPITALAR,0,0,0,0,0,0,1,0,1,0,1,0,0,1
-47,72,Feminino,Joaquim pires/PI,ISQUEMIA,Transtibial direita,ALTA HOSPITALAR,1,0,0,0,1,0,1,0,1,0,1,0,0,1
-48,48,Masculino,Teresina/PI,ISQUEMIA,Transtibial esquerda,ALTA HOSPITALAR,0,0,0,0,1,0,1,0,0,0,1,0,0,1
-49,84,Masculino,Teresina/PI,ISQUEMIA,Transtibial direita,ALTA HOSPITALAR,0,0,0,0,1,0,1,0,0,0,1,0,0,0
-50,64,Masculino,Esperantina/PI,ISQUEMIA,Transfemoral esquerda,ALTA HOSPITALAR,0,0,0,0,1,0,1,0,0,0,1,0,0,1
-51,78,Feminino,Teresina/PI,ISQUEMIA,Infrapatelar esquerda,ALTA HOSPITALAR,1,0,0,0,0,0,1,0,0,0,1,0,0,0
-52,76,Feminino,São Francisco de assis do Piauí/PI,ISQUEMIA,Transtibial direita,ALTA HOSPITALAR,0,0,0,0,1,0,1,0,0,0,0,1,0,0
-53,61,Masculino,Altos/PI,ISQUEMIA,Transfemoral bilateral,ALTA HOSPITALAR,0,0,0,0,1,0,1,0,0,1,1,0,0,0
-54,69,Feminino,Parnaiba/PI,ISQUEMIA,Suprapatelar esquerda,TRANSFERÊNCIA,0,0,0,0,1,0,1,0,0,0,1,0,0,0
-55,66,Masculino,Picos/PI,ISQUEMIA,Transfemoral esquerda,ALTA HOSPITALAR,0,0,0,0,0,0,1,0,1,0,0,0,0,0
-56,56,Masculino,Teresina/PI,ISQUEMIA,Suprapatelar esquerda,ALTA HOSPITALAR,0,1,0,0,0,0,1,0,0,0,1,0,0,0
-57,76,Feminino,Varzea grande/PI,ISQUEMIA,Transfemoral direita,ALTA HOSPITALAR,0,0,0,0,1,0,1,0,1,0,1,1,0,1
-58,58,Masculino,Teresina/PI,ISQUEMIA,Transfemoral esquerda,ALTA HOSPITALAR,1,0,0,0,1,0,0,0,1,0,1,0,0,1
-59,72,Masculino,Agua branca/PI,ISQUEMIA, Suprapatelar esquerda,ÓBITO,0,0,0,0,0,0,0,0,1,0,0,0,0,1
-60,72,Masculino,Picos/PI,ISQUEMIA,Transfemoral esquerda,ALTA HOSPITALAR,0,0,0,0,1,0,0,0,1,0,0,0,0,0
-61,61,Masculino,Teresina/PI,ISQUEMIA,Transfemoral direita,ALTA HOSPITALAR,0,0,0,0,0,0,0,0,0,0,1,0,0,1
-62,62,Masculino,Teresina/PI,INFECÇÃO,Transfemoral esquerda,ALTA HOSPITALAR,0,0,0,0,0,0,1,0,1,0,1,0,0,0
-63,77,Feminino,Jaicos/PI,FERIDA DOLOROSA E ISQUEMICA,Suprapatelar esquerda,ALTA HOSPITALAR,0,0,0,0,1,0,1,0,1,0,1,0,0,0
-64,70,Feminino,Picos/PI,ISQUEMIA,Transfemoral direita,ALTA HOSPITALAR,0,0,0,0,0,0,1,0,1,0,1,0,0,1
-65,43,Feminino,Teresina/PI,ISQUEMIA,Transfemoral direita,ÓBITO,0,0,0,0,1,0,1,0,1,0,1,0,1,0
-66,48,Masculino,Sebastião Leal/PI,ISQUEMIA,Transfemoral esquerda,ALTA HOSPITALAR,0,0,0,0,0,0,1,1,1,0,1,0,0,0
-67,66,Masculino,Beneditinos/PI,ISQUEMIA,Membro inferior direito,ÓBITO,0,0,1,0,0,0,1,0,1,0,1,0,0,1
-68,62,Masculino,Teresina/PI,INFECÇÃO,Transfemoral esquerda,ALTA HOSPITALAR,0,0,0,0,0,0,1,0,1,0,1,0,0,0
-69,72,Feminino,Agua branca/PI,ISQUEMIA,Suprapatelar esquerda,ÓBITO,0,0,0,0,0,0,0,0,1,0,1,0,0,1
-70,80,Feminino,Sao pedro do Piauí/PI,ISQUEMIA,Transfemoral esquerda,ÓBITO,0,0,0,0,0,0,0,0,1,0,1,0,1,0
-71,64,Masculino,Sebastião Barros/PI,ISQUEMIA,Transtibial esquerda,ALTA HOSPITALAR,0,0,0,0,1,0,0,1,0,0,0,0,0,0
-72,78,Feminino,Valença do Piauí/PI,ISQUEMIA,Transfemoral esquerda,ALTA HOSPITALAR,0,0,0,0,0,0,1,0,0,0,0,0,0,0
-73,76,Masculino,Teresina/PI,ISQUEMIA,Transtibial esquerda,ALTA HOSPITALAR,0,0,0,0,0,0,1,0,0,0,0,0,0,0
-74,54,Masculino,Teresina/PI,ISQUEMIA,Transtibial esquerda,ALTA HOSPITALAR,0,0,0,0,0,0,1,0,1,0,1,0,0,0
-75,59,Feminino,Teresina/PI,ISQUEMIA,Transtibial direita,ÓBITO,1,0,1,0,1,0,1,0,1,0,1,0,0,0
-76,57,Feminino,Jaicos/PI,ISQUEMIA,Transtibial esquerda,ALTA HOSPITALAR,1,0,0,0,0,0,0,0,1,1,1,0,0,0
-77,75,Masculino,Sao miguel do tapuio/PI,ISQUEMIA,Membro inferior direito,ALTA HOSPITALAR,0,0,1,0,0,0,1,0,1,0,0,0,0,0
-78,63,Masculino,Caridade do Piauí/PI,ISQUEMIA,Transfemoral direita,ALTA HOSPITALAR,0,0,0,0,1,0,1,0,0,0,1,0,0,1
-79,80,Masculino,Valença do Piauí/PI,ISQUEMIA,Transfemoral direita,ALTA HOSPITALAR,0,0,0,0,0,0,1,0,0,0,1,0,0,0
-80,82,Masculino,Rio grande/PI,ISQUEMIA,Suprapatelar esquerda,ALTA HOSPITALAR,1,0,0,0,1,0,1,0,1,0,1,0,0,1
-81,77,Masculino,Pedro II/PI,ISQUEMIA,Membro inferior esquerdo,ÓBITO,0,0,1,0,0,0,1,0,1,0,1,0,0,1
-82,58,Masculino,Teresina/PI,ISQUEMIA,Transfemoral esquerda,ALTA HOSPITALAR,0,0,0,0,1,0,1,0,0,0,0,0,0,0
-83,85,Feminino,Alegrete do Piauí/PI,ISQUEMIA,Transfemoral direita,ALTA HOSPITALAR,0,0,0,0,0,0,1,0,0,0,1,0,0,0
-84,88,Masculino,Batalha/PI,ISQUEMIA,Transtibial direita,ALTA HOSPITALAR,0,0,0,0,0,0,1,0,1,0,1,0,0,0
-85,62,Feminino,Valença do Piauí/PI,ISQUEMIA,Suprapatelar direita,ALTA HOSPITALAR,0,0,0,0,1,0,1,0,0,0,1,0,0,0
-86,62,Feminino,Valença do Piauí/PI,ISQUEMIA,Suprapatelar direita,ALTA HOSPITALAR,0,0,0,0,1,0,1,0,0,0,1,0,0,0
-87,68,Masculino,Parnaiba/PI,ISQUEMIA,Membro inferior direito,ÓBITO,1,0,0,0,1,0,1,0,0,0,0,0,0,0
-88,75,Feminino,São Raimundo Nonato/PI,ISQUEMIA,Transfemoral esquerda,ALTA HOSPITALAR,0,0,0,0,1,0,1,0,0,0,0,0,0,0
-89,62,Masculino,Teresina/PI,ISQUEMIA,Transfemoral esquerda,ALTA HOSPITALAR,0,0,0,0,0,0,1,0,0,0,0,0,0,0
-90,49,Masculino,Itainopolis/PI,ISQUEMIA,Transfemoral esquerda,ÓBITO,0,0,1,0,1,0,0,0,0,0,0,0,0,0
-91,52,Feminino,Teresina/PI,ISQUEMIA,Transfemoral esquerda,ALTA HOSPITALAR,0,0,1,0,0,0,1,1,0,0,0,0,0,0
-92,74,Feminino,Paulistana/PI,ISQUEMIA,Transfemoral direita,ÓBITO,0,0,1,0,1,0,1,0,1,0,1,0,0,0
-93,60,Masculino,Teresina/PI,ISQUEMIA,Transfemoral esquerda,ALTA HOSPITALAR,0,0,0,0,1,0,0,0,0,1,0,0,0,1
-94,68,Feminino,Teresina/PI,ISQUEMIA,Transfemoral direita,ALTA HOSPITALAR,0,0,0,0,1,0,0,0,0,0,0,0,0,0
-95,78,Feminino,Colonia do gurgeia/PI,ISQUEMIA,Membro inferior esquerdo,ALTA HOSPITALAR,0,0,0,0,1,0,1,0,0,0,1,0,0,0
-96,66,Masculino,Beneditinos/PI,ISQUEMIA,Membro inferior direito,ÓBITO,0,0,1,0,0,0,1,0,1,0,1,0,0,1
-97,74,Feminino,Teresina/PI,ISQUEMIA,Transfemoral direita,ALTA HOSPITALAR,1,0,0,0,1,0,0,0,0,0,0,0,0,0
-98,56,Feminino,Teresina/PI,ISQUEMIA,Membro inferior direito,ALTA HOSPITALAR,0,0,0,0,0,0,1,0,0,1,1,0,0,0
-99,64,Masculino,Palmeirais/PI,ISQUEMIA,Transtibial esquerda,ALTA HOSPITALAR,1,0,0,0,0,0,1,0,0,1,1,0,0,0
-100,62,Feminino,Monsenhor Gil/PI,ISQUEMIA,Transtibial direita,ALTA HOSPITALAR,1,0,0,0,1,0,1,0,0,0,1,0,0,0
-101,62,Masculino,Teresina/PI,ISQUEMIA,Transtibial esquerda,ALTA HOSPITALAR,0,0,0,0,1,0,1,0,0,0,1,0,0,0
-102,70,Feminino,Esperantina/PI,ISQUEMIA,Transfemoral esquerda,ALTA HOSPITALAR,0,0,0,0,0,0,1,0,0,1,0,0,0,0
-103,63,Masculino,Palmeirais/PI,ISQUEMIA,Transtibial esquerda,ÓBITO,0,0,0,0,1,0,1,0,1,1,1,0,0,0
-104,57,Masculino,Inhuma/PI,ISQUEMIA,Transfemural direita,ALTA HOSPITALAR,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-105,77,Masculino,Bom jesus/PI,ISQUEMIA,Transfemoral direita,ALTA HOSPITALAR,0,0,0,0,1,0,1,0,1,0,1,0,0,0
-106,21,Masculino,Araioses/MA,ISQUEMIA,Transfemoral esquerda,ALTA HOSPITALAR,0,0,0,0,0,0,0,0,0,0,1,0,0,1
-107,56,Masculino,Oeiras/PI,ISQUEMIA,Transfemoral esquerda,ALTA HOSPITALAR,1,0,0,0,0,0,1,0,0,0,0,0,0,0
-108,82,Masculino,Barra da alcantara/PI,ISQUEMIA,Membro inferior direita,ALTA HOSPITALAR,0,0,1,0,0,0,1,0,0,0,1,0,1,0
-109,71,Masculino,Floriano/PI,ISQUEMIA,Transtibial esquerda,ALTA HOSPITALAR,0,0,0,0,1,0,1,0,0,1,1,0,0,0
-110,54,Feminino,Demerval lobao/PI,ISQUEMIA,Transfemoral esquerda,ÓBITO,0,0,0,0,1,0,1,0,1,0,1,0,0,0
-111,77,Feminino,Teresina/PI,ISQUEMIA,Transtibial esquerda,ALTA HOSPITALAR,1,0,0,0,1,0,1,0,0,0,1,0,0,0
-112,76,Feminino,Ribeiro gonçalves/PI,ISQUEMIA,Transtibial esquerda,ALTA HOSPITALAR,1,0,0,0,0,0,0,0,0,0,0,0,0,1
-113,72,Masculino,Teresina/PI,ISQUEMIA,Transfemoral esquerda,ÓBITO,0,0,1,0,0,0,1,0,1,0,1,0,0,0
-114,55,Feminino,Campo maior/PI,ISQUEMIA,Infrapatelar direita,ALTA HOSPITALAR,0,0,0,0,0,0,1,0,0,0,1,0,0,0
-115,84,Masculino,Teresina/PI,ISQUEMIA,Transfemoral direita,ALTA HOSPITALAR,0,0,0,0,1,0,1,0,0,0,1,0,0,1
-116,79,Feminino,São miguel do fidalgo/PI,ISQUEMIA,Transfemoral equerda,ALTA HOSPITALAR,0,0,0,0,0,0,1,0,0,0,1,0,0,0
-117,72,Masculino,Teresina/PI,ISQUEMIA,Transfemoral direita,ALTA HOSPITALAR,0,0,0,0,1,0,1,0,0,0,1,0,0,0
-118,84,Masculino,Floriano/PI,ISQUEMIA,Transfemoral direita,ALTA HOSPITALAR,0,0,0,0,0,0,1,0,0,1,0,0,0,1
-119,75,Feminino,Buriti dos montes/PI,ISQUEMIA,Transfemoral esquerda,ALTA HOSPITALAR,0,0,0,0,1,0,1,0,0,0,1,0,0,0
-120,77,Feminino,Nova iorque/MA,ISQUEMIA,Transfemoral esquerda,ÓBITO,0,1,1,0,1,0,1,0,1,0,1,0,0,0
-121,77,Feminino,Jaicos/PI,ISQUEMIA,Suprapatelar esquerda,ÓBITO,1,0,1,0,1,0,1,0,0,0,1,0,0,0
+01,58,Feminino,Jaicos/PI,NECROSE,Transfemoral esquerda,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0
+03,79,Feminino,Bom jesus/PI,ISQUEMIA,Transtibial esquerda,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0
+04,92,Feminino,Oeiras/PI,ISQUEMIA,Transfemoral direita,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+05,66,Feminino,Esperantina/PI,TRAUMA,Infrapatelar esquerda,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0
+06,56,Masculino,Parnaiba/PI,INFECÇÃO,Transtibial esquerda,0,0,0,0,0,1,0,1,1,1,0,1,1,0,0
+07,69,Masculino,Parnaiba/PI,NECROSE,Transtibial esquerda,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+08,54,Masculino,Teresina/PI,DAOP,Transtibial esquerda,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0
+09,75,Feminino,Teresina/PI,NECROSE,Transfemoral direita,0,1,0,0,0,1,0,1,0,0,0,1,0,1,1
+10,58,Feminino,Jaicos/PI,INFECÇÃO E EXPOSIÇÃO ÓSSEA,Transtibial esquerda,0,1,0,0,0,1,0,1,0,1,1,1,0,0,0
+11,82,Masculino,Rio grande/PI,ISQUEMIA,Transfemoral esquerda,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0
+11,82,Masculino,Rio grande/PI,ISQUEMIA,Transfemoral esquerda,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0
+12,81,Masculino,Jose de freitas/PI,NECROSE,Transfemoral esquerda,0,1,1,0,0,1,0,1,0,1,0,1,0,0,1
+13,34,Masculino,Miguel alves/PI,NECROSE ÚMIDA,Desarticulacao de quadril,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+14,21,Masculino,Teresina/PI,ISQUEMIA,Transfemoral esquerda,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+15,66,Masculino,Parnaiba/PI,NECROSE,Suprapatelar esquerda,0,0,1,0,0,1,0,1,0,1,0,1,0,0,0
+16,84,Feminino,Valença do Piauí/PI,NECROSE,Suprapatelar esquerda,0,1,0,0,0,1,0,1,0,1,0,1,0,0,1
+17,75,Feminino,Teresina/PI,ISQUEMIA,Transfemoral esquerda,0,1,0,0,0,1,0,0,0,1,0,1,1,0,0
+18,75,Feminino,Teresina/PI,ISQUEMIA,Transfemoral direita,0,1,0,0,0,1,0,0,0,1,0,1,1,0,0
+19,66,Feminino,Beneditinos/PI,DAOP,Transfemoral Esquerda,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0
+20,66,Feminino,Palmeirais/PI,ISQUEMIA,Transfemoral direita,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0
+21,66,Feminino,Palmeirais/PI,ISQUEMIA,Transfemoral direita,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0
+22,77,Feminino,Jaicos/PI,FERIDA DOLOROSA E ISQUEMICA,Suprapatelar esquerda,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0
+23,69,Feminino,Valença do Piauí/PI,INFECÇÃO,Transfemoral direita,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0
+24,70,Masculino,Teresina/PI,DAOP,Transfemoral esquerda,0,0,0,0,0,1,0,1,0,0,0,1,0,0,1
+30,66,Feminino,Parnaiba/PI,ISQUEMIA,Transtibial direita,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+31,88,Masculino,Paulistana/PI,ISQUEMIA,Transfemoral  esquerda,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0
+32,74,Masculino,Parnaiba/PI,ISQUEMIA,Transfemoral esquerda,0,1,0,0,0,1,0,1,0,1,0,1,0,0,1
+33,72,Masculino,Teresina/PI,ISQUEMIA,Transfemoral direita,0,0,0,0,0,1,0,1,1,0,0,1,0,0,0
+34,81,Feminino,Teresina/PI,ISQUEMIA,Transfemoral esquerda,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+35,61,Feminino,Teresina/PI,ISQUEMIA,Infrapatelar direita,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0
+36,61,Feminino,Teresina/PI,ISQUEMIA,Infrapatelar esquerda,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0
+37,70,Masculino,São Raimundo Nonato/PI,ISQUEMIA,Transtibial esquerda,0,0,0,0,0,1,0,1,0,0,1,1,0,0,1
+38,65,Masculino,Parnaiba/PI,ISQUEMIA,Suprapatelar direita,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0
+39,79,Masculino,Teresina/PI,ISQUEMIA,Transtibial direita,0,0,0,0,0,1,0,1,0,1,0,1,0,0,1
+40,87,Masculino,Inhuma/PI,NECROSE,Transfemoral esquerda,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0
+41,72,Masculino,Piracuruca/PI,ISQUEMIA,Infrapatelar esquerda,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0
+42,69,Feminino,Pimenteiras/PI,ISQUEMIA,Membros inferiores bilateral,1,1,0,0,0,0,0,1,0,1,1,1,0,0,0
+43,71,Feminino,Colônia do Piauí/PI,ISQUEMIA,Transtibial direita,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0
+44,83,Feminino,Teresina/PI,ISQUEMIA,Transfemoral esquerda,0,0,1,0,0,0,0,1,0,1,0,1,0,0,0
+45,62,Masculino,Picos/PI,ISQUEMIA,Transtibial esquerda,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0
+46,64,Feminino,Teresina/PI,ISQUEMIA,Transfemoral esquerda,0,0,0,0,0,0,0,1,0,1,0,1,0,0,1
+47,72,Feminino,Joaquim pires/PI,ISQUEMIA,Transtibial direita,0,1,0,0,0,1,0,1,0,1,0,1,0,0,1
+48,48,Masculino,Teresina/PI,ISQUEMIA,Transtibial esquerda,0,0,0,0,0,1,0,1,0,0,0,1,0,0,1
+49,84,Masculino,Teresina/PI,ISQUEMIA,Transtibial direita,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0
+50,64,Masculino,Esperantina/PI,ISQUEMIA,Transfemoral esquerda,0,0,0,0,0,1,0,1,0,0,0,1,0,0,1
+51,78,Feminino,Teresina/PI,ISQUEMIA,Infrapatelar esquerda,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0
+52,76,Feminino,São Francisco de assis do Piauí/PI,ISQUEMIA,Transtibial direita,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0
+53,61,Masculino,Altos/PI,ISQUEMIA,Transfemoral bilateral,0,0,0,0,0,1,0,1,0,0,1,1,0,0,0
+54,69,Feminino,Parnaiba/PI,ISQUEMIA,Suprapatelar esquerda,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0
+55,66,Masculino,Picos/PI,ISQUEMIA,Transfemoral esquerda,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+56,56,Masculino,Teresina/PI,ISQUEMIA,Suprapatelar esquerda,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0
+57,76,Feminino,Varzea grande/PI,ISQUEMIA,Transfemoral direita,0,0,0,0,0,1,0,1,0,1,0,1,1,0,1
+58,58,Masculino,Teresina/PI,ISQUEMIA,Transfemoral esquerda,0,1,0,0,0,1,0,0,0,1,0,1,0,0,1
+59,72,Masculino,Agua branca/PI,ISQUEMIA, Suprapatelar esquerda,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+60,72,Masculino,Picos/PI,ISQUEMIA,Transfemoral esquerda,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+61,61,Masculino,Teresina/PI,ISQUEMIA,Transfemoral direita,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+62,62,Masculino,Teresina/PI,INFECÇÃO,Transfemoral esquerda,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0
+63,77,Feminino,Jaicos/PI,FERIDA DOLOROSA E ISQUEMICA,Suprapatelar esquerda,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0
+64,70,Feminino,Picos/PI,ISQUEMIA,Transfemoral direita,0,0,0,0,0,0,0,1,0,1,0,1,0,0,1
+65,43,Feminino,Teresina/PI,ISQUEMIA,Transfemoral direita,1,0,0,0,0,1,0,1,0,1,0,1,0,1,0
+66,48,Masculino,Sebastião Leal/PI,ISQUEMIA,Transfemoral esquerda,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0
+67,66,Masculino,Beneditinos/PI,ISQUEMIA,Membro inferior direito,1,0,0,1,0,0,0,1,0,1,0,1,0,0,1
+68,62,Masculino,Teresina/PI,INFECÇÃO,Transfemoral esquerda,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0
+69,72,Feminino,Agua branca/PI,ISQUEMIA,Suprapatelar esquerda,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1
+70,80,Feminino,Sao pedro do Piauí/PI,ISQUEMIA,Transfemoral esquerda,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0
+71,64,Masculino,Sebastião Barros/PI,ISQUEMIA,Transtibial esquerda,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+72,78,Feminino,Valença do Piauí/PI,ISQUEMIA,Transfemoral esquerda,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+73,76,Masculino,Teresina/PI,ISQUEMIA,Transtibial esquerda,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+74,54,Masculino,Teresina/PI,ISQUEMIA,Transtibial esquerda,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0
+75,59,Feminino,Teresina/PI,ISQUEMIA,Transtibial direita,1,1,0,1,0,1,0,1,0,1,0,1,0,0,0
+76,57,Feminino,Jaicos/PI,ISQUEMIA,Transtibial esquerda,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0
+77,75,Masculino,Sao miguel do tapuio/PI,ISQUEMIA,Membro inferior direito,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0
+78,63,Masculino,Caridade do Piauí/PI,ISQUEMIA,Transfemoral direita,0,0,0,0,0,1,0,1,0,0,0,1,0,0,1
+79,80,Masculino,Valença do Piauí/PI,ISQUEMIA,Transfemoral direita,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+80,82,Masculino,Rio grande/PI,ISQUEMIA,Suprapatelar esquerda,0,1,0,0,0,1,0,1,0,1,0,1,0,0,1
+81,77,Masculino,Pedro II/PI,ISQUEMIA,Membro inferior esquerdo,1,0,0,1,0,0,0,1,0,1,0,1,0,0,1
+82,58,Masculino,Teresina/PI,ISQUEMIA,Transfemoral esquerda,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+83,85,Feminino,Alegrete do Piauí/PI,ISQUEMIA,Transfemoral direita,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+84,88,Masculino,Batalha/PI,ISQUEMIA,Transtibial direita,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0
+85,62,Feminino,Valença do Piauí/PI,ISQUEMIA,Suprapatelar direita,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0
+86,62,Feminino,Valença do Piauí/PI,ISQUEMIA,Suprapatelar direita,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0
+87,68,Masculino,Parnaiba/PI,ISQUEMIA,Membro inferior direito,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0
+88,75,Feminino,São Raimundo Nonato/PI,ISQUEMIA,Transfemoral esquerda,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+89,62,Masculino,Teresina/PI,ISQUEMIA,Transfemoral esquerda,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+90,49,Masculino,Itainopolis/PI,ISQUEMIA,Transfemoral esquerda,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+91,52,Feminino,Teresina/PI,ISQUEMIA,Transfemoral esquerda,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0
+92,74,Feminino,Paulistana/PI,ISQUEMIA,Transfemoral direita,1,0,0,1,0,1,0,1,0,1,0,1,0,0,0
+93,60,Masculino,Teresina/PI,ISQUEMIA,Transfemoral esquerda,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1
+94,68,Feminino,Teresina/PI,ISQUEMIA,Transfemoral direita,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+95,78,Feminino,Colonia do gurgeia/PI,ISQUEMIA,Membro inferior esquerdo,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0
+96,66,Masculino,Beneditinos/PI,ISQUEMIA,Membro inferior direito,1,0,0,1,0,0,0,1,0,1,0,1,0,0,1
+97,74,Feminino,Teresina/PI,ISQUEMIA,Transfemoral direita,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+98,56,Feminino,Teresina/PI,ISQUEMIA,Membro inferior direito,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0
+99,64,Masculino,Palmeirais/PI,ISQUEMIA,Transtibial esquerda,0,1,0,0,0,0,0,1,0,0,1,1,0,0,0
+100,62,Feminino,Monsenhor Gil/PI,ISQUEMIA,Transtibial direita,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0
+101,62,Masculino,Teresina/PI,ISQUEMIA,Transtibial esquerda,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0
+102,70,Feminino,Esperantina/PI,ISQUEMIA,Transfemoral esquerda,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+103,63,Masculino,Palmeirais/PI,ISQUEMIA,Transtibial esquerda,1,0,0,0,0,1,0,1,0,1,1,1,0,0,0
+104,57,Masculino,Inhuma/PI,ISQUEMIA,Transfemural direita,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+105,77,Masculino,Bom jesus/PI,ISQUEMIA,Transfemoral direita,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0
+106,21,Masculino,Araioses/MA,ISQUEMIA,Transfemoral esquerda,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+107,56,Masculino,Oeiras/PI,ISQUEMIA,Transfemoral esquerda,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+108,82,Masculino,Barra da alcantara/PI,ISQUEMIA,Membro inferior direita,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0
+109,71,Masculino,Floriano/PI,ISQUEMIA,Transtibial esquerda,0,0,0,0,0,1,0,1,0,0,1,1,0,0,0
+110,54,Feminino,Demerval lobao/PI,ISQUEMIA,Transfemoral esquerda,1,0,0,0,0,1,0,1,0,1,0,1,0,0,0
+111,77,Feminino,Teresina/PI,ISQUEMIA,Transtibial esquerda,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0
+112,76,Feminino,Ribeiro gonçalves/PI,ISQUEMIA,Transtibial esquerda,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+113,72,Masculino,Teresina/PI,ISQUEMIA,Transfemoral esquerda,1,0,0,1,0,0,0,1,0,1,0,1,0,0,0
+114,55,Feminino,Campo maior/PI,ISQUEMIA,Infrapatelar direita,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+115,84,Masculino,Teresina/PI,ISQUEMIA,Transfemoral direita,0,0,0,0,0,1,0,1,0,0,0,1,0,0,1
+116,79,Feminino,São miguel do fidalgo/PI,ISQUEMIA,Transfemoral equerda,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+117,72,Masculino,Teresina/PI,ISQUEMIA,Transfemoral direita,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0
+118,84,Masculino,Floriano/PI,ISQUEMIA,Transfemoral direita,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1
+119,75,Feminino,Buriti dos montes/PI,ISQUEMIA,Transfemoral esquerda,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0
+120,77,Feminino,Nova iorque/MA,ISQUEMIA,Transfemoral esquerda,1,0,1,1,0,1,0,1,0,1,0,1,0,0,0
+121,77,Feminino,Jaicos/PI,ISQUEMIA,Suprapatelar esquerda,1,1,0,1,0,1,0,1,0,0,0,1,0,0,0
