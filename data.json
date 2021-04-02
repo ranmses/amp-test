@@ -9,10 +9,9 @@
 		{ "type": "string", "index": 2, "name": "Sexo"},
 		{ "type": "string", "index": 3, "name": "Cidade"},
 		{ "type": "string", "index": 4, "name": "Motivo"},
-		{ "type": "string", "index": 5, "name": "Amputação"},
-		{ "type": "string", "index": 6, "name": "Desfecho"}
+		{ "type": "string", "index": 5, "name": "Amputação"}
 	],
 	"sets": [
-		{ "format": "binary", "start": 7, "end": 20 }
+		{ "format": "binary", "start": 6, "end": 20 }
 	]
 }
