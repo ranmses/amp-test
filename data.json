@@ -1,7 +1,7 @@
 {
 	"file": "https://raw.githubusercontent.com/ranmses/amp-test/main/data.csv",
 	"name": "Dados - Amputações",
-	"header": 1,
+	"header": 0,
 	"separator": ",",
 	"skip": 0,
 	"meta": [
