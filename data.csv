@@ -1,4 +1,4 @@
-Paciente,Idade,Sexo,Cidade,Motivo,Amputação,Óbito,AP,AVE,COVID,DM1,DM2,FA,HAS,IAM,INFECÇÃO,IRA,ISQUEMIA,REVASC,SEPSE,TABAGISMO
+Paciente,Idade,Sexo,Cidade,Motivo,Amputação,ÓBITO,AP,AVE,COVID,DM1,DM2,FA,HAS,IAM,INFECÇÃO,IRA,ISQUEMIA,REVASC,SEPSE,TABAGISMO
 01,58,Feminino,Jaicos/PI,NECROSE,Transfemoral esquerda,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0
 03,79,Feminino,Bom jesus/PI,ISQUEMIA,Transtibial esquerda,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0
 04,92,Feminino,Oeiras/PI,ISQUEMIA,Transfemoral direita,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
